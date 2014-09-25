@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Built-By: Deisss
+Build-Jdk: 1.7
+Created-By: Apache Maven
+Main-Class: com.klinq.maven.window.MainFrame
+Archiver-Version: Plexus Archiver
